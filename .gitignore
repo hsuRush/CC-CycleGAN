@@ -5,4 +5,5 @@ test_images/
 images/
 datasets/
 ctc_pretrain_weights/
-__pycache__
+__pycache__/
+*.txt
