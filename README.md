@@ -5,7 +5,7 @@ In this repo, I generate license plate and restricted the generated license plat
 
 # Architecture 
 <p align="center">
-<img src="https://github.com/hsuRush/CC-CycleGAN/blob/master/cccgan_demo.gif?raw=true" width="750" height="450"/>
+<img src="https://github.com/hsuRush/CC-CycleGAN/blob/master/demo/cccgan_demo.gif?raw=true" width="750" height="450"/>
 </p>
 
 # Comparison from original CycleGAN in license plate style transfer
