@@ -1,0 +1,8 @@
+exp1/
+exp2/
+exp2_no_ctc/
+test_images/
+images/
+datasets/
+ctc_pretrain_weights/
+__pycache__
