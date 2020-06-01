@@ -12,7 +12,7 @@ In this repo, I generate license plate and restricted the generated license plat
 <p align="center">
 <img src="https://github.com/hsuRush/CC-CycleGAN/blob/master/demo/demo_camparion.png?raw=true" width="750" height="450"/>
 </p>
-The the license plate number in proposed CC-CycleGAN are clear and recognizable. 
+The license plate numbers in proposed CC-CycleGAN are clear and recognizable. 
 
 # Disclaimer
 This is highly based on the subfolder "cyclegan" in https://github.com/eriklindernoren/Keras-GAN repo.
